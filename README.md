@@ -28,7 +28,7 @@ The detailed **OWASP Juice Shop security assessment report** included in this re
 - Introduction & Executive Summary  
 - Testing Tools and Methodology  
 - Technical Explanation of Each Vulnerability  
-- Proof of Concept (PoC) and Exploitation Flow    
+- Proof of Concept (PoC)    
 - Risk Analysis & Impact
 - Mitigation Strategies and Recommendations
 - Real-World Scenarios  
